@@ -1,0 +1,21 @@
+header{
+    height: 100vh;
+    background-image: url(images/hero-image.jpg);
+    background-repeat: no-repeat;
+    background-position:60% 70%;
+    background-size: cover; /* Ensures the image covers the container while maintaining its aspect ratio */
+    font-family: "Roboto", sans-serif;
+}
+
+
+.heroSection > h1, .logo{
+ color: rgb(255, 196, 0);
+ font-family: "Bebas Neue",sans-serif;
+}
+
+.heroSection p{
+    color: white;
+ 
+
+}
+
